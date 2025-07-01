@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "afc"]
+	path = afc
+	url = https://github.com/cran/afc
 [submodule "easyVerification"]
 	path = easyVerification
 	url = https://github.com/jonasbhend/easyverification
